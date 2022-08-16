@@ -1,0 +1,1 @@
+In this project, a straightforward newsletter signup page is developed to let users subscribe and get monthly emails on new technology. In addition to HTML5, CSS3, Bootstrap, Body-Parser, Node.js, and Express.js, the Mailchimp API was used to accomplish this.
